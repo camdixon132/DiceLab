@@ -1,0 +1,15 @@
+/Users/camerondixon/Projects/DiceLab/DiceLab/bin/Debug/net7.0/DiceLab
+/Users/camerondixon/Projects/DiceLab/DiceLab/bin/Debug/net7.0/DiceLab.deps.json
+/Users/camerondixon/Projects/DiceLab/DiceLab/bin/Debug/net7.0/DiceLab.runtimeconfig.json
+/Users/camerondixon/Projects/DiceLab/DiceLab/bin/Debug/net7.0/DiceLab.dll
+/Users/camerondixon/Projects/DiceLab/DiceLab/bin/Debug/net7.0/DiceLab.pdb
+/Users/camerondixon/Projects/DiceLab/DiceLab/obj/Debug/net7.0/DiceLab.csproj.AssemblyReference.cache
+/Users/camerondixon/Projects/DiceLab/DiceLab/obj/Debug/net7.0/DiceLab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/camerondixon/Projects/DiceLab/DiceLab/obj/Debug/net7.0/DiceLab.AssemblyInfoInputs.cache
+/Users/camerondixon/Projects/DiceLab/DiceLab/obj/Debug/net7.0/DiceLab.AssemblyInfo.cs
+/Users/camerondixon/Projects/DiceLab/DiceLab/obj/Debug/net7.0/DiceLab.csproj.CoreCompileInputs.cache
+/Users/camerondixon/Projects/DiceLab/DiceLab/obj/Debug/net7.0/DiceLab.dll
+/Users/camerondixon/Projects/DiceLab/DiceLab/obj/Debug/net7.0/refint/DiceLab.dll
+/Users/camerondixon/Projects/DiceLab/DiceLab/obj/Debug/net7.0/DiceLab.pdb
+/Users/camerondixon/Projects/DiceLab/DiceLab/obj/Debug/net7.0/DiceLab.genruntimeconfig.cache
+/Users/camerondixon/Projects/DiceLab/DiceLab/obj/Debug/net7.0/ref/DiceLab.dll
